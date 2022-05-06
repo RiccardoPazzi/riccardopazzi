@@ -6,6 +6,8 @@ I'm currently living in Milan🏙️ while studying @ Politecnico di Milano and 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flate&logo=linux&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPY-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
