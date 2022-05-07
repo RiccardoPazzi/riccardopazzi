@@ -19,11 +19,11 @@ I'm currently living in Milan🏙️ while studying @ Politecnico di Milano and 
 
 ## 🔥 What I'm passionate about
 🔎 I am curious about how things work, especially in physics and computer science.
-This results in me buying wayyy to many textbooks, even if I don't have the time to read them all.
+This results in me buying wayyy too many textbooks for the spare time I have.
 
-⛰️🤿 I love nature and exercising, I trek and I go scuba diving every so often
+⛰️🤿 I love nature and exercising, I trek and go scuba diving every so often.
 
-🗣️ I'm passionate about explaining science and reaching people outside the university bubble, so I volunteer @OnAir a student association which organizes science talks and events open to everybody
+🗣️ I'm passionate about explaining science and reaching people outside the university bubble, so I volunteer @OnAir a student association which organizes science talks and events for the general public.
 
 
 ## 📫 How to reach me
