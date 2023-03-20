@@ -1,6 +1,7 @@
 # Hey! Welcome to my Github profile 👋
 My name is Riccardo Pazzi, I am a Student majoring in Data science with a minor in I&E under the EIT Digital consortium. 
-I'm currently living in France while studying @ Université Côte d'Azur, I've done my first MSc year @ Politecnico di Milano, Milan.
+I'm currently living in Milan working on my thesis.
+I've studied @ Université Côte d'Azur, and my first MSc year @ Politecnico di Milano, Milan.
 
 ## :seedling: Currently Learning
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flate&logo=linux&logoColor=black)
