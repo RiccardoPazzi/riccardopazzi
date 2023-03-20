@@ -19,7 +19,7 @@ I've studied @ Université Côte d'Azur, and my first MSc year @ Politecnico di 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ## 🔥 What I'm passionate about
-🔎 I am curious about how things work, especially in physics and computer science.
+🔎 I am curious about how things work, especially in physics, mathematics and computer science.
 This results in me buying wayyy too many textbooks for the spare time I have.
 
 ⛰️🤿 I love nature and exercising, I trek and go scuba diving every so often.
