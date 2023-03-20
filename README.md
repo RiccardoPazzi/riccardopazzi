@@ -31,7 +31,7 @@ This results in me buying wayyy too many textbooks for the spare time I have.
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-pazzi-8916841a7/)
 [![OnAir](https://img.shields.io/badge/Instagram-E4405F?style=flate&logo=instagram&logoColor=white)](https://www.instagram.com/onairgram/)
 
-
+P.s. My profile picture was generated using Midjourney, I am indeed a fan of turtles and try to collect a small statue for each foreign country I visit (currently holding > 13)
 <!--
 **RiccardoPazzi/riccardopazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
