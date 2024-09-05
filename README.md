@@ -1,6 +1,6 @@
 # Hey! Welcome to my Github profile 👋
-My name is Riccardo Pazzi, I am a Student majoring in Data science with a minor in I&E under the EIT Digital consortium. 
-I'm currently living in Milan working on my thesis.
+My name is Riccardo Pazzi, I have a MSc in Data science with a minor in I&E under the EIT Digital consortium. 
+I'm currently working as a ML engineer, developing privacy-preserving solutions @ Dhiria.
 I've studied @ Université Côte d'Azur, and my first MSc year @ Politecnico di Milano, Milan.
 
 ## :seedling: Currently Learning
@@ -23,13 +23,14 @@ I've studied @ Université Côte d'Azur, and my first MSc year @ Politecnico di 
 This results in me buying wayyy too many textbooks for the spare time I have.
 
 ⛰️🤿 I love nature and exercising, I trek and go scuba diving every so often.
-
-🗣️ I'm passionate about explaining science and reaching people outside the university bubble, so I volunteer @OnAir a student association which organizes science talks and events for the general public.
+ 
+🗣️ I'm passionate about explaining science and reaching people outside the university bubble, so I volunteer @ OnAir a student association which organizes science talks and events for the general public.
 
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-pazzi-8916841a7/)
 [![OnAir](https://img.shields.io/badge/Instagram-E4405F?style=flate&logo=instagram&logoColor=white)](https://www.instagram.com/onairgram/)
+[![Dhiria]]()
 
 ## 🐢 Random fact about me
 My profile picture was generated using Midjourney, I am indeed a fan of turtles and try to collect a small statue for each foreign country I visit (currently holding > 13)
