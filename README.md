@@ -5,14 +5,15 @@ I've studied @ Université Côte d'Azur, and my first MSc year @ Politecnico di 
 
 ## :seedling: Currently Learning
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flate&logo=linux&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPY-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPY-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Java](https://img.shields.io/badge/Oracle-%23ED8B00?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-61DAFB?logo=C&logoColor=white&style=flat) 
 ![MySQL](https://img.shields.io/badge/MySQL-581845.svg?style=flat&logo=mysql&logoColor=white)
 
