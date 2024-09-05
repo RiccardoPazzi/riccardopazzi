@@ -14,7 +14,7 @@ I've studied @ Université Côte d'Azur, and my first MSc year @ Politecnico di 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-61DAFB?logo=C&logoColor=white&style=flat) 
-![MySQL](https://img.shields.io/badge/MySQL-581845.svg?style=flat&logo=mysql&logoColor=white
+![MySQL](https://img.shields.io/badge/MySQL-581845.svg?style=flat&logo=mysql&logoColor=white)
 
 ## 🔥 What I'm passionate about
 🔎 I am curious about how things work, especially in physics, mathematics and computer science.
