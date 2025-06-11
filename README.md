@@ -4,16 +4,13 @@ I'm currently working as a ML engineer, developing privacy-preserving solutions 
 I've studied @ Université Côte d'Azur, and my first MSc year @ Politecnico di Milano, Milan.
 
 ## :seedling: Currently Learning
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flate&logo=linux&logoColor=black)
+Abstract algebra for cryptography
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/NumPY-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=oracle&logoColor=white)
-![C](https://img.shields.io/badge/-C-61DAFB?logo=C&logoColor=white&style=flat) 
-![MySQL](https://img.shields.io/badge/MySQL-581845.svg?style=flat&logo=mysql&logoColor=white)
 
 ## 🔥 What I'm passionate about
 🔎 I am curious about how things work, especially in physics, mathematics and computer science.
