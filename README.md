@@ -4,6 +4,7 @@ I'm currently working as a ML engineer, developing privacy-preserving solutions 
 I've studied @ Université Côte d'Azur, and my first MSc year @ Politecnico di Milano, Milan.
 
 ## :seedling: Currently Learning
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 Abstract algebra for cryptography
 
 ## 🔧 Technologies & Tools
