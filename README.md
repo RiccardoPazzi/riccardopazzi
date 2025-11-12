@@ -5,7 +5,7 @@ I've studied @ Université Côte d'Azur, and my first MSc year @ Politecnico di 
 
 ## :seedling: Currently Learning
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go)
 
 
 Abstract algebra for cryptography
