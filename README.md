@@ -4,8 +4,8 @@ I'm currently working as a ML engineer, developing privacy-preserving solutions 
 I've studied @ Université Côte d'Azur, and my first MSc year @ Politecnico di Milano, Milan.
 
 ## :seedling: Currently Learning
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
 Abstract algebra for cryptography
