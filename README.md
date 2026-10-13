@@ -1,19 +1,7 @@
-# Hey! Welcome to my Github profile 👋
-My name is Riccardo Pazzi, I have a MSc in Data science with a minor in I&E under the EIT Digital consortium. 
-I'm currently working as a ML engineer, developing privacy-preserving solutions @ Dhiria.
+# Who am I
+My name is Riccardo Pazzi, I'm a first year PhD student at Bielefeld University. 
+I worked as a ML engineer, developing privacy-preserving solutions @ Dhiria.
 I've studied @ Université Côte d'Azur, and my first MSc year @ Politecnico di Milano, Milan.
-
-## Currently Learning
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
-
-Abstract algebra for cryptography
-
-## Technologies & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ## What I'm passionate about
 I am curious about how things work, especially in physics, mathematics and computer science.
