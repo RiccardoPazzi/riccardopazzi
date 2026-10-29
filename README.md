@@ -14,7 +14,7 @@ I'm passionate about explaining science and reaching people outside the universi
 [![OnAir](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/onairgram/)
 
 ## Random fact about me
-My profile picture was generated using Midjourney, I am indeed a fan of turtles and try to collect a small statue for each foreign country I visit (currently holding > 13)
+I am indeed a fan of turtles and try to collect a small statue for each foreign country I visit (currently holding > 14)
 <!--
 **RiccardoPazzi/riccardopazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
